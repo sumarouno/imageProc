@@ -2,7 +2,7 @@
 from PyQt4 import QtCore, QtGui
 import PIL.ImageQt as ImageQt
 
-from Chart import Chart
+from chart import Chart
 from imagePreProcessor import imagePreProcessor
 
 try:
